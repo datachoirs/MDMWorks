@@ -1,0 +1,8 @@
+Bundle-Name: ProxyServices.cba
+Bundle-SymbolicName: ProxyServices.cba
+Bundle-Version: 1.0.0.qualifier
+CompositeBundle-ManifestVersion: 1
+Manifest-Version: 1.0
+CompositeBundle-Content: ProxyServices;version="[1.0.0.qualifier,1.0.0.q
+ ualifier]"
+

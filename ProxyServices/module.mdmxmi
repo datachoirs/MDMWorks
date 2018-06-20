@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdm:MDMModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdm="http://www.ibm.com/xmlns/prod/mdm/tools/model/core_v6.ecore" name="ProxyServices" id="1" customNature="module" serviceNamespace="http://bp.mdm.datachoirs.com" implPackageName="com.datachoirs.mdm.bp" componentTypeMetadataIdForComponent="2" componentTypeMetadataIdForController="3" MDMApplication="mdm://MDMSharedResources#/" asiDefinitionRequestAdapterId="4" asiDefinitionResponseAdapterId="5">
+  <MDMPackage name="ProxyServices" id="6" componentTypeMetadataIdForComponent="7" componentTypeMetadataIdForController="8"/>
+</mdm:MDMModule>
